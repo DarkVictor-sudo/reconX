@@ -1,0 +1,5 @@
+recon/
+*.log
+*.txt
+output/
+results/
